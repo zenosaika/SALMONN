@@ -14,7 +14,7 @@
 
 model:
   # paths
-  llama_path: "path to llama model"
+  llm_path: "path to llm model"
   whisper_path: "path to whisper model"
   beats_path: "path to beats model"
 
@@ -31,8 +31,8 @@ model:
   second_per_window: 0.333333
   second_stride: 0.333333
 
-  speech_llama_proj_model: ""
-  freeze_speech_llama_proj: False
+  speech_llm_proj_model: ""
+  freeze_speech_llm_proj: False
 
   # LoRA
   lora: True
