@@ -18,7 +18,7 @@ model:
   whisper_path: "path to whisper model"
   beats_path: "path to beats model"
 
-  ckpt: "model ckpt" # if not "", load model from ckpt for training or evaluation
+  ckpt: "" # if not "", load model from ckpt for training or evaluation
 
   freeze_whisper: True
   freeze_beats: True
@@ -48,16 +48,16 @@ model:
   end_sym: "</s>"
 
 datasets:
-  train_ann_path: "path to train data"
-  valid_ann_path: "path to valid data"
-  test_ann_path: "path to test data"
+  train_ann_path: "data/brainrot_data.json"
+  valid_ann_path: "data/brainrot_data.json"
+  test_ann_path: "data/brainrot_data.json"
 
   whisper_path: "path to whisper model"
 
 run:
   # log & settings
-  seed: 42
-  output_dir: "output directory"
+  seed: 31337
+  output_dir: "runs"
   evaluate: False # if True, only evaluate model on test data
 
   log_freq: 5
