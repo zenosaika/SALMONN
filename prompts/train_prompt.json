@@ -14,7 +14,22 @@
         "<Speech><SpeechHere></Speech> Recognize the speech and write it down in a written format.",
         "<Speech><SpeechHere></Speech> Listen to the speech and recognize its content.",
         "<Speech><SpeechHere></Speech> Give me the transcription of the speech you heard.",
-        "<Speech><SpeechHere></Speech> Recognize the speech and give me the transcription."
+        "<Speech><SpeechHere></Speech> Recognize the speech and give me the transcription.",
+        "<Speech><SpeechHere></Speech> ช่วยถอดเสียงพูดเป็นข้อความได้ไหม",
+        "<Speech><SpeechHere></Speech> ฟังเสียงพูดแล้วเขียนเนื้อหาลงมา",
+        "<Speech><SpeechHere></Speech> เนื้อหาของเสียงพูดที่ได้ยินคืออะไร",
+        "<Speech><SpeechHere></Speech> กรุณาเขียนถอดเสียงพูดออกมา",
+        "<Speech><SpeechHere></Speech> โปรดถอดเสียงพูดเป็นข้อความ",
+        "<Speech><SpeechHere></Speech> เขียนเนื้อหาของเสียงพูดที่ได้ยินลงมา",
+        "<Speech><SpeechHere></Speech> ช่วยเขียนถอดเสียงพูดออกมาได้ไหม",
+        "<Speech><SpeechHere></Speech> แปลงเสียงพูดเป็นข้อความ",
+        "<Speech><SpeechHere></Speech> ช่วยถอดเสียงพูดเป็นข้อความหน่อย",
+        "<Speech><SpeechHere></Speech> จดจำเนื้อหาของเสียงพูดที่ได้ยิน",
+        "<Speech><SpeechHere></Speech> คุณสามารถจดจำสิ่งที่ได้ยินในเสียงพูดได้ไหม",
+        "<Speech><SpeechHere></Speech> จดจำเสียงพูดและเขียนออกมาเป็นข้อความ",
+        "<Speech><SpeechHere></Speech> ฟังเสียงพูดและจดจำเนื้อหา",
+        "<Speech><SpeechHere></Speech> ขอ transcription ของเสียงพูดที่ได้ยินหน่อย",
+        "<Speech><SpeechHere></Speech> จดจำเสียงพูดและขอ transcription"
     ],
     "asr_zh": [
         "<Speech><SpeechHere></Speech> 前面的语音说了什么？",
