@@ -25,7 +25,7 @@ from peft import LoraConfig, TaskType, get_peft_model
 
 from .Qformer import BertConfig, BertLMHeadModel
 # from .modeling_llama import LlamaForCausalLM
-from .modeling_qwen2 import Qwen2ForCausalLM
+from .modeling_qwen2_ import Qwen2ForCausalLM
 from .modeling_whisper import WhisperModel
 from .beats.BEATs import BEATsConfig, BEATs
 from .utils import StoppingCriteriaSub
